@@ -43,7 +43,7 @@ I built this project to serve as a practical decision-making tool for football c
 ![Age Groups & Performance](Age%20Groups%20&%20Performance.png)
 *Analyzes player performance, running distance metrics, and efficiency distribution across various career age groups.*
 
-### 2. Seasonality Analysis
+### 2. Seasonality Analysis 
 ![Seasonality Analysis](Seasonality%20Analysis.png)
 *Examines monthly and quarterly trends, year filters, and performance behavioral patterns throughout the season.*
 
@@ -58,7 +58,7 @@ I built this project to serve as a practical decision-making tool for football c
 * **`DimDate` (Dimension Table):** Linked via a one-to-many relationship for time-intelligence.
 * **`!Measures`:** Centralized table organizing custom DAX logic (MoM trends, top player identification, and efficiency tracking).
 
-##  Advanced DAX Measures
+## Advanced DAX Measures
 Core custom DAX logic implemented for deep tactical analysis, grouped together:
 
 ```dax
@@ -106,17 +106,25 @@ CALCULATE(
     [Total_goals_assists], 
     DATEADD(DimDate[Date], -1, MONTH)
 )
-
-##  Key Insights & Conclusions
-
+```
+---
+### Key Insights & Conclusions
 * **Player Age Impact:** Performance analysis reveals that players in their ***Prime Career*** (ages 24–29) dominate across all metrics, driving **nearly 60% of the league's total offensive output** (442 goals and assists) alongside massive physical workloads.
 * **Seasonal & Quarterly Trends:** The league exhibits distinct performance peaks in the **first quarter** (led by a high volume of goals in March), while tactical discipline improves significantly as the season progresses from early-season aggressiveness into stabilized later quarters.
 * **Tactical & Disciplinary Variance:** Club-level deep dives show strong correlations between **high-press styles** (such as Beitar Jerusalem) and increased card liabilities, contrasted with balanced offensive efficiency in teams like Maccabi Haifa and Hapoel Tel Aviv.
 * **Workload & Physical Peak:** **Forwards consistently dominate total playing time** across major clubs, while key engine-room midfielders (such as Dan Einbinder and Dor Peretz) dictate elite box-to-box distance coverage.
 
+---
+### Technologies & Tools
+* **Database & Storage:** MongoDB, PostgreSQL
+* **ETL & Automation:** Python, Pandas, Apache Airflow
+* **Visualization & BI:** Power BI (DAX, Data Modeling, Time based filtering, Data Cleaning, Data Visualization, Business Intelligence)
 
+---
+##  How to View the Project
 
-##  **Technologies & Tools**
-* **Database & Storage:** <b>MongoDB</b>, <b>PostgreSQL</b>
-* **ETL & Automation:** <b>Python</b>, <b>Pandas</b>, <b>Apache Airflow</b>
-* **Visualization & BI:** <b>Power BI</b> (DAX, Data Modeling)
+1. **Download the Power BI File:**
+   * Click on the `Football Project.pbix` file in the repository and click **Download** to save it to your computer.
+
+2. **Explore:**
+   * Open the file using Power BI Desktop to interact with the full dashboard and explore all the pages and reports.
