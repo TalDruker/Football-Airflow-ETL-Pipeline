@@ -58,7 +58,7 @@ I built this project to serve as a practical decision-making tool for football c
 * **`DimDate` (Dimension Table):** Linked via a one-to-many relationship for time-intelligence.
 * **`!Measures`:** Centralized table organizing custom DAX logic (MoM trends, top player identification, and efficiency tracking).
 
-## 📐 6. Advanced DAX Measures
+##  Advanced DAX Measures
 Core custom DAX logic implemented for deep tactical analysis, grouped together:
 
 ```dax
@@ -109,7 +109,7 @@ CALCULATE(
 
 ##  Key Insights & Conclusions
 
-* **Player Age Impact:** Performance analysis reveals that players in their *Prime Career* (ages 24–29) dominate across all metrics, driving nearly 60% of the league's total offensive output (442 goals and assists) and massive physical workloads.
-* **Seasonal & Quarterly Trends:** The league exhibits distinct performance peaks in the first quarter (led by a high volume of goals in March), while tactical discipline improves significantly as the season progresses from early-season aggressiveness into stabilized later quarters.
-* **Tactical & Disciplinary Variance:** Club-level deep dives show strong correlations between high-press styles (such as Beitar Jerusalem) and increased card liabilities, contrasted with balanced offensive efficiency in teams like Maccabi Haifa and Hapoel Tel Aviv.
-* **Workload & Physical Peak:** Forwards consistently dominate total playing time across major clubs, while key engine-room players (such as Dan Einbinder and Dor Peretz) dictate elite box-to-box distance coverage.
+* **Player Age Impact:** Performance analysis reveals that players in their ***Prime Career*** (ages 24–29) dominate across all metrics, driving **nearly 60% of the league's total offensive output** (442 goals and assists) alongside massive physical workloads.
+* **Seasonal & Quarterly Trends:** The league exhibits distinct performance peaks in the **first quarter** (led by a high volume of goals in March), while tactical discipline improves significantly as the season progresses from early-season aggressiveness into stabilized later quarters.
+* **Tactical & Disciplinary Variance:** Club-level deep dives show strong correlations between **high-press styles** (such as Beitar Jerusalem) and increased card liabilities, contrasted with balanced offensive efficiency in teams like Maccabi Haifa and Hapoel Tel Aviv.
+* **Workload & Physical Peak:** **Forwards consistently dominate total playing time** across major clubs, while key engine-room midfielders (such as Dan Einbinder and Dor Peretz) dictate elite box-to-box distance coverage.
