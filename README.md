@@ -51,6 +51,13 @@ I built this project to serve as a practical decision-making tool for football c
 ![Hapoel Tel Aviv statistics](Hapoel%20Tel%20Aviv%20satistics.png)
 *Detailed tactical and granular analysis of a specific club, showcasing key performance indicators and positional breakdowns.*
 
+
+### Data Model & Architecture
+![View data model](View%20data%20model.png)
+* **`Data_football` (Fact Table):** Stores match records, player metrics, and performance indicators.
+* **`DimDate` (Dimension Table):** Linked via a one-to-many relationship for time-intelligence.
+* **`!Measures`:** Centralized table organizing custom DAX logic (MoM trends, top-player identification, and efficiency tracking).
+
 ---
 
 ##  Key Insights & Conclusions
