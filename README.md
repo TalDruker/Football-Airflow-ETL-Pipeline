@@ -35,7 +35,6 @@ I built this project to serve as a practical decision-making tool for football c
 
 ### 3. Team Performance Deep-Dive (Hapoel Tel Aviv)
 ![Hapoel Tel Aviv statistics](Hapoel Tel Aviv satistics.png)
-.png)
 *Detailed tactical and granular analysis of a specific club, showcasing key performance indicators and positional breakdowns.*
 
 ---
