@@ -109,6 +109,7 @@ CALCULATE(
 
 ##  Key Insights & Conclusions
 
-* **Player Age Impact:** Performance analysis reveals a high concentration of offensive contributions (Goals & Assists) within the *Prime Career* group, alongside significant physical workload volumes.
-* **Seasonal Trends:** The data clearly highlights how metrics shift across specific months using interactive slicers, pointing to performance peaks and tactical adjustments over time.
-* **Granular Team Focus:** Transitioning to individual club analysis (such as Hapoel Tel Aviv) enables the identification of micro-level strengths and weaknesses, including running distance efficiency and match outcomes.
+* **Player Age Impact:** Performance analysis reveals that players in their *Prime Career* (ages 24–29) dominate across all metrics, driving nearly 60% of the league's total offensive output (442 goals and assists) and massive physical workloads.
+* **Seasonal & Quarterly Trends:** The league exhibits distinct performance peaks in the first quarter (led by a high volume of goals in March), while tactical discipline improves significantly as the season progresses from early-season aggressiveness into stabilized later quarters.
+* **Tactical & Disciplinary Variance:** Club-level deep dives show strong correlations between high-press styles (such as Beitar Jerusalem) and increased card liabilities, contrasted with balanced offensive efficiency in teams like Maccabi Haifa and Hapoel Tel Aviv.
+* **Workload & Physical Peak:** Forwards consistently dominate total playing time across major clubs, while key engine-room players (such as Dan Einbinder and Dor Peretz) dictate elite box-to-box distance coverage.
