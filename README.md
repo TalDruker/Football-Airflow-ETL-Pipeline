@@ -6,7 +6,7 @@ An end-to-end data project that automates the flow of football match data from s
 
 ---
 
-## About the Project
+## About the Project 
 I built this project to serve as a practical decision-making tool for football coaching staffs. Instead of just crunching numbers, the goal was to turn raw statistics into clear tactical insights focusing on player performance, monthly trends, and match aggression.
 
 ## Key Features & Views
@@ -116,9 +116,7 @@ CALCULATE(
 
 
 
-Technologies & Tools
-Database & Storage: MongoDB, PostgreSQL
-
-ETL & Automation: Python, Pandas, Apache Airflow
-
-Visualization & BI: Power BI (DAX, Data Modeling)
+##  **Technologies & Tools**
+* **Database & Storage:** <b>MongoDB</b>, <b>PostgreSQL</b>
+* **ETL & Automation:** <b>Python</b>, <b>Pandas</b>, <b>Apache Airflow</b>
+* **Visualization & BI:** <b>Power BI</b> (DAX, Data Modeling)
