@@ -2,7 +2,7 @@
 
 An end-to-end data project that automates the flow of football match data from storage to an interactive Power BI dashboard for tactical analysis.
 
-![Main Menu Overview](main-menu.png)
+![Main Menu Overview](mainMenu.png)
 
 ---
 
