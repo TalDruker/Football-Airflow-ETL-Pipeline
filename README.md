@@ -116,7 +116,9 @@ CALCULATE(
 
 
 
-## Technologies & Tools
-* **Database & Storage:** MongoDB, PostgreSQL
-* **ETL & Automation:** Python, Pandas, Apache Airflow
-* **Visualization & BI:** Power BI (DAX, Data Modeling, Temporal Filtering)
+Technologies & Tools
+Database & Storage: MongoDB, PostgreSQL
+
+ETL & Automation: Python, Pandas, Apache Airflow
+
+Visualization & BI: Power BI (DAX, Data Modeling)
