@@ -121,6 +121,10 @@ CALCULATE(
 * **Visualization & BI:** Power BI (DAX, Data Modeling, Time based filtering, Data Cleaning, Data Visualization, Business Intelligence)
 
 ---
+##  ETL Pipeline Code
+The core logic for extracting, transforming, and loading the football data (using Python, Pandas, and database connectivity) is available in the repository file:
+* **[project.py](https://github.com/TalDruker/Football-Airflow-ETL-Pipeline/blob/main/project.py)**
+
 ##  How to View the Project
 
 1. Click **[Download Football Project.pbix](https://github.com/TalDruker/Football-Airflow-ETL-Pipeline/raw/main/Football%20Project.pbix)** to download the dashboard directly to your computer.
