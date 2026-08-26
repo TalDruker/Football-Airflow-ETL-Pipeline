@@ -123,8 +123,5 @@ CALCULATE(
 ---
 ##  How to View the Project
 
-1. **Download the Power BI File:**
-   * Click on the `Football Project.pbix` file in the repository and click **Download** to save it to your computer.
-
-2. **Explore:**
-   * Open the file using Power BI Desktop to interact with the full dashboard and explore all the pages and reports.
+1. Click **[Download Football Project.pbix](https://github.com/TalDruker/Football-Airflow-ETL-Pipeline/raw/main/Football%20Project.pbix)** to download the dashboard directly to your computer.
+2. Open the downloaded file using Power BI Desktop.
