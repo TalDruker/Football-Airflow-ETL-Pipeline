@@ -22,9 +22,22 @@ I built this project to serve as a practical decision-making tool for football c
 2. **Transform:** Cleans, normalizes, and processes data using **Python & Pandas** inside an **Apache Airflow DAG**.
 3. **Load:** Stores the structured data into a relational **PostgreSQL** database.
 4. **Visualize:** Connects directly to **Power BI** for final reporting and exploration.
+
 ---
 
-##  Dashboard Views & Analysis
+##  Interactive Dashboard Demos
+
+### 1. Risk & Aggression Analysis
+![Risk & Aggression Analysis](Risk%20&%20Aggression%20Analysis.gif)
+*Dynamic tracking of tactical discipline, monthly card distributions, and quarterly trends across teams.*
+
+### 2. Club Analysis
+![Club Analysis](Club%20Analysis.gif)
+*Granular tactical view showcasing club-specific performance, positional breakdowns, and monthly growth indicators.*
+
+---
+
+## Dashboard Static Views
 
 ### 1. Age Groups & Performance
 ![Age Groups & Performance](Age%20Groups%20&%20Performance.png)
