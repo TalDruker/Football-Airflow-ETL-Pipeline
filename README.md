@@ -31,7 +31,7 @@ I built this project to serve as a practical decision-making tool for football c
 *Analyzes player performance, running distance metrics, and efficiency distribution across various career age groups.*
 
 ### 2. Seasonality Analysis
-![Seasonality Analysis](SeasonalityAnalysis.png)
+![Seasonality Analysis](Seasonality Analysis.png)
 *Examines monthly and quarterly trends, year filters, and performance behavioral patterns throughout the season.*
 
 ### 3. Team Performance Deep-Dive (Hapoel Tel Aviv)
