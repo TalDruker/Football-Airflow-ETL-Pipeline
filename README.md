@@ -34,7 +34,7 @@ I built this project to serve as a practical decision-making tool for football c
 *Examines monthly and quarterly trends, year filters, and performance behavioral patterns throughout the season.*
 
 ### 3. Team Performance Deep-Dive (Hapoel Tel Aviv)
-![Hapoel Tel Aviv statistics](![Hapoel Tel Aviv satistics.png]()
+![Hapoel Tel Aviv statistics](Hapoel Tel Aviv satistics.png)
 .png)
 *Detailed tactical and granular analysis of a specific club, showcasing key performance indicators and positional breakdowns.*
 
