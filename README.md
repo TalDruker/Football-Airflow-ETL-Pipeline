@@ -24,7 +24,7 @@ I built this project to serve as a practical decision-making tool for football c
 4. **Visualize:** Connects directly to **Power BI** for final reporting and exploration.
 ---
 
-## 📊 Dashboard Views & Analysis
+##  Dashboard Views & Analysis
 
 ### 1. Age Groups & Performance
 ![Age Groups & Performance](Age%20Groups%20&%20Performance.png)
@@ -40,7 +40,7 @@ I built this project to serve as a practical decision-making tool for football c
 
 ---
 
-## 💡 Key Insights & Conclusions
+##  Key Insights & Conclusions
 
 * **Player Age Impact:** Performance analysis reveals a high concentration of offensive contributions (Goals & Assists) within the *Prime Career* group, alongside significant physical workload volumes.
 * **Seasonal Trends:** The data clearly highlights how metrics shift across specific months using interactive slicers, pointing to performance peaks and tactical adjustments over time.
