@@ -113,3 +113,10 @@ CALCULATE(
 * **Seasonal & Quarterly Trends:** The league exhibits distinct performance peaks in the **first quarter** (led by a high volume of goals in March), while tactical discipline improves significantly as the season progresses from early-season aggressiveness into stabilized later quarters.
 * **Tactical & Disciplinary Variance:** Club-level deep dives show strong correlations between **high-press styles** (such as Beitar Jerusalem) and increased card liabilities, contrasted with balanced offensive efficiency in teams like Maccabi Haifa and Hapoel Tel Aviv.
 * **Workload & Physical Peak:** **Forwards consistently dominate total playing time** across major clubs, while key engine-room midfielders (such as Dan Einbinder and Dor Peretz) dictate elite box-to-box distance coverage.
+
+
+
+## Technologies & Tools
+* **Database & Storage:** MongoDB, PostgreSQL
+* **ETL & Automation:** Python, Pandas, Apache Airflow
+* **Visualization & BI:** Power BI (DAX, Data Modeling, Temporal Filtering)
