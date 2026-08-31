@@ -2,7 +2,7 @@
 
 An end-to-end data project that automates the flow of football match data from storage to an interactive Power BI dashboard for tactical analysis.
 
-![Main Menu Overview](mainMenu.png)
+![Main Menu Overview](assets/mainMenu.png)
 
 ---
 
@@ -28,11 +28,11 @@ I built this project to serve as a practical decision-making tool for football c
 ##  Interactive Dashboard Demos
 
 ### 1. Risk & Aggression Analysis
-![Risk & Aggression Analysis](Risk%20&%20Aggression%20Analysis.gif)
+![Risk & Aggression Analysis](assets/Risk%20&%20Aggression%20Analysis.gif)
 *Dynamic tracking of tactical discipline, monthly card distributions, and quarterly trends across teams.*
 
 ### 2. Club Analysis
-![Club Analysis](Club%20Analysis.gif)
+![Club Analysis](assets/Club%20Analysis.gif)
 *Granular tactical view showcasing club-specific performance, positional breakdowns, and monthly growth indicators.*
 
 ---
@@ -40,20 +40,20 @@ I built this project to serve as a practical decision-making tool for football c
 ## Dashboard Static Views
 
 ### 1. Age Groups & Performance
-![Age Groups & Performance](Age%20Groups%20&%20Performance.png)
+![Age Groups & Performance](assets/Age%20Groups%20&%20Performance.png)
 *Analyzes player performance, running distance metrics, and efficiency distribution across various career age groups.*
 
 ### 2. Seasonality Analysis 
-![Seasonality Analysis](Seasonality%20Analysis.png)
+![Seasonality Analysis](assets/Seasonality%20Analysis.png)
 *Examines monthly and quarterly trends, year filters, and performance behavioral patterns throughout the season.*
 
 ### 3. Team Performance Deep-Dive (Hapoel Tel Aviv)
-![Hapoel Tel Aviv statistics](Hapoel%20Tel%20Aviv%20satistics.png)
+![Hapoel Tel Aviv statistics](assets/Hapoel%20Tel%20Aviv%20satistics.png)
 *Detailed tactical and granular analysis of a specific club, showcasing key performance indicators and positional breakdowns.*
 
 
 ### Data Model
-![View data model](View%20data%20model.png)
+![View data model](assets/View%20data%20model.png)
 * **`Data_football` (Fact Table):** Stores match records, player metrics, and performance indicators.
 * **`DimDate` (Dimension Table):** Linked via a one-to-many relationship for time-intelligence.
 * **`!Measures`:** Centralized table organizing custom DAX logic (MoM trends, top player identification, and efficiency tracking).
